@@ -11,7 +11,7 @@ npx create-strapi-app@latest AGI-CMS --quickstart
 
 ### `demo`
 
-
+https://user-images.githubusercontent.com/68712435/203788106-9d5a14d3-954d-4eba-9e29-9f8ef06b398a.mp4
 
 ### `develop`
 
