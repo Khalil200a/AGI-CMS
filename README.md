@@ -19,6 +19,12 @@ https://user-images.githubusercontent.com/68712435/203788106-9d5a14d3-954d-4eba-
 
 ## `⚙️ Configuration`
 
+0 - traverser vers le projet 
+
+```
+cd AGI-CMS
+```
+
 1 - Allumer le serveur avec la command :
 
 ```
@@ -27,22 +33,11 @@ npm run start
 
 2 - Aller vers le lien [http://localhost:1337/admin](http://localhost:1337/admin)
 
+3 - Créer le compte admin
 
-### `start`
-
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
-
+### `demo`
 
 
-### `build`
-
-Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
-
-```
-npm run build
-# or
-yarn build
-```
 
 ## ⚙️ Deployment
 
