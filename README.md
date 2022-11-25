@@ -1,8 +1,10 @@
 # 🚀 Rapport Strapi
 
-## Introduction
+## `Introduction`
 
-Strapi est un CMS headless qui est été utiliser dans ce projet pou
+Strapi est un CMS headless qui est été utiliser dans ce projet pour faciliter la manipulation des données statiques.
+Le but de ce rapport est de vous aider a comprendre tout les étapes a suivre.
+
 
 ## `Installation`
 
