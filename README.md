@@ -1,6 +1,8 @@
 # 🚀 Rapport Strapi
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
+## Introduction
+
+Strapi est un CMS headless qui est été utiliser dans ce projet pou
 
 ## `Installation`
 
@@ -13,25 +15,22 @@ npx create-strapi-app@latest AGI-CMS --quickstart
 
 https://user-images.githubusercontent.com/68712435/203788106-9d5a14d3-954d-4eba-9e29-9f8ef06b398a.mp4
 
-### `develop`
+## `⚙️ Configuration`
 
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
+1 - Allumer le serveur avec la command :
 
 ```
-npm run develop
-# or
-yarn develop
+npm run start
 ```
+
+2 - Aller vers le lien [http://localhost:1337/admin](http://localhost:1337/admin)
+
 
 ### `start`
 
 Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
 
-```
-npm run start
-# or
-yarn start
-```
+
 
 ### `build`
 
