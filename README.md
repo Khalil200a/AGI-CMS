@@ -57,6 +57,10 @@ Landing {
 
 2 -  Remplir le nom avec `landing` et cliquer sur le `Continue` bouton, un modal apparaîtra. Ce sera pour sélectionner le champ pour notre model `landing`, les champs de notre modèle de landing seront un champ "Texte".  Choisissez donc le champ "Texte" sur la prochaine interface utilisateur qui affiche le type "believe" et cliquez sur `+ Add another area` pour ajouter "mission" et "vision".
 
+### 🎬 demo
+
+https://user-images.githubusercontent.com/68712435/204109107-ac97a0f9-7b5a-4767-93c4-e1611eff80ae.mp4
+
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
