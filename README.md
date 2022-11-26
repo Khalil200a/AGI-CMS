@@ -90,7 +90,7 @@ https://user-images.githubusercontent.com/68712435/204111618-413cc73c-c934-4aa4-
 
 ---
 
-📚 Ressource :
+📚 Ressources :
 
  - [Documentation strapi](https://docs.strapi.io/);
  - [Movie app with strapi](https://strapi.io/blog/how-to-build-a-movie-app-using-strapi-and-angular);
