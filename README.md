@@ -37,7 +37,7 @@ yarn strapi develop
 
 ### `demo`
 
-
+https://user-images.githubusercontent.com/68712435/204103503-39166746-4240-49c0-8397-d5afc9ed4c50.mp4
 
 ## ⚙️ Deployment
 
