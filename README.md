@@ -47,15 +47,15 @@ Notre modèle rassemblera a ceci :
 
 ```
 Landing {
-    Believe,
-    Mission,
-    Vision
+    believe,
+    mission,
+    vision
 }
 ```
 
 1 - Sur l'interface utilisateur d'administration. Cliquer sur `+ Create new single type`.  Un modal apparaîtra sur le modal contextuel, tapez "landing" dans la zone de saisie du nom d'affichage.
 
-2 -  Remplir le nom avec `landing` et cliquer sur le `Continue` bouton, un modal apparaîtra. Ce sera pour sélectionner le champ pour notre model `landing`
+2 -  Remplir le nom avec `landing` et cliquer sur le `Continue` bouton, un modal apparaîtra. Ce sera pour sélectionner le champ pour notre model `landing`, les champs de notre modèle de landing seront un champ "Texte".  Choisissez donc le champ "Texte" sur la prochaine interface utilisateur qui affiche le type "believe" et cliquez sur `+ Add another area` pour ajouter "mission" et "vision".
 
 ---
 
