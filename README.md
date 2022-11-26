@@ -1,5 +1,6 @@
 # 🚀 Rapport Strapi
----
+
+
 ## Introduction
 
 Strapi est un CMS headless qui est été utiliser dans ce projet pour faciliter la manipulation des données statiques.</br>
