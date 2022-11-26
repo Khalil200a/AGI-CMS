@@ -43,14 +43,19 @@ https://user-images.githubusercontent.com/68712435/204103503-39166746-4240-49c0-
 ## Construire le single type de la page statique
 
 Notre serveur Strapi a démarré.  Maintenant, nous allons construire notre sigle type.
-Notre modèle rassemblera a ceci
+Notre modèle rassemblera a ceci :
+
 ```
-Landing{
-    Beilive,
+Landing {
+    Believe,
     Mission,
     Vision
 }
 ```
+
+1 - Sur l'interface utilisateur d'administration. Cliquer sur `+ Create new single type`.  Un modal apparaîtra sur le modal contextuel, tapez "landing" dans la zone de saisie du nom d'affichage.
+
+2 -  Remplir le nom avec `landing` et cliquer sur le `Continue` bouton, un modal apparaîtra. Ce sera pour sélectionner le champ pour notre model `landing`
 
 ---
 
