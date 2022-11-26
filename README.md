@@ -62,6 +62,10 @@ Au "vission", cliquez sur le champ `Finish` bouton.  Le modal disparaîtra et no
 
 https://user-images.githubusercontent.com/68712435/204110407-0a8d2079-147b-441f-a894-9765f0adaea8.mp4
 
+## Ajouter les données de la page statique 
+
+
+
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
