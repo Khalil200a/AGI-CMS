@@ -10,7 +10,7 @@ Le but de ce rapport est de vous aider a comprendre tout les étapes a suivre.
 
 La command pour installer 
 ```
-npx create-strapi-app@latest AGI-CMS --quickstart
+yarn create strapi-app AGI-CMS --quickstart
 ```
 
 ### `demo`
@@ -28,7 +28,7 @@ cd AGI-CMS
 1 - Allumer le serveur avec la command :
 
 ```
-npm run start
+yarn strapi develop
 ```
 
 2 - Aller vers le lien [http://localhost:1337/admin](http://localhost:1337/admin)
